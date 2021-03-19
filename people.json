@@ -3,9 +3,9 @@
 	"height": "1.88",
 	"weight": "106",
 	"birthday": [
-		"day": "30",
+		{"day": "30",
 		"month":"july",
-		"year":"1947"
+		"year":"1947"}
 	],
 	"country": "Austria",
 	},
@@ -15,9 +15,9 @@
 	"height": "1.7",
 	"weight": "77",
 	"birthday": [
-		"day": "3",
+		{"day": "3",
 		"month": "july",
-		"year": "1962"
+		"year": "1962"}
 	],
 	"country":"USA"
 	},
@@ -27,9 +27,9 @@
 	"height": "1.74",
 	"weight": "72",
 	"birthday": [
-		"day": "7",
+		{"day": "7",
 		"month": "april",
-		"year": "1954"
+		"year": "1954"}
 	],
 	"country":"Hong Kong", 
 	},
@@ -39,9 +39,9 @@
 	"height": "1.65",
 	"weight": "49",
 	"birthday": [
-		"day": "9",
+		{"day": "9",
 		"month": "february",
-		"year": "1979"
+		"year": "1979"}
 	],
 	"country":"China", 
 	},
@@ -64,9 +64,9 @@
 	"height": "1.7",
 	"weight": "87",
 	"birthday": [
-		"day": "20",
+		{"day": "20",
 		"month": "december",
-		"year": "1983"
+		"year": "1983"}
 		],
 	"country":"USA", 
 	}
