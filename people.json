@@ -1,73 +1,73 @@
 {
-	"name": "Arnold Schwarzenegger";
-	"height": "1.88";
-	"weight": "106";
+	"name": "Arnold Schwarzenegger",
+	"height": "1.88",
+	"weight": "106",
 	"birthday": [
-		"day": "30";
-		"month":"july";
-		"year":"1947";
-	];
-	"country": "Austria";
+		"day": "30",
+		"month":"july",
+		"year":"1947"
+	],
+	"country": "Austria",
 	},
 	
 	{
-	"name": "Tom Cruise";
-	"height": "1.7";
-	"weight": "77";
+	"name": "Tom Cruise",
+	"height": "1.7",
+	"weight": "77",
 	"birthday": [
-		"day": "3";
-		"month": "july";
+		"day": "3",
+		"month": "july",
 		"year": "1962"
-	];
+	],
 	"country":"USA"
 	},
 	
 	{
-	"name": "Jackie Chan";
-	"height": "1.74";
-	"weight": "72";
+	"name": "Jackie Chan",
+	"height": "1.74",
+	"weight": "72",
 	"birthday": [
-		"day": "7";
-		"month": "april";
+		"day": "7",
+		"month": "april",
 		"year": "1954"
-	];
-	"country":"Hong Kong"; 
+	],
+	"country":"Hong Kong", 
 	},
 	
 	{
-	"name": "Zhang Ziyi";
-	"height": "1.65";
-	"weight": "49";
+	"name": "Zhang Ziyi",
+	"height": "1.65",
+	"weight": "49",
 	"birthday": [
-		"day": "9";
-		"month": "february";
+		"day": "9",
+		"month": "february",
 		"year": "1979"
-	];
-	"country":"China"; 
+	],
+	"country":"China", 
 	},
 	
 	{
-	"name": "Charlize Theron";
-	"height": "1.78";
-	"weight": "54";
+	"name": "Charlize Theron",
+	"height": "1.78",
+	"weight": "54",
 	"birthday": [
-		{"day": "7";
-		"month": "august";
+		{"day": "7",
+		"month": "august",
 		"year": "1975"
 		}
-	];
-	"country":"South Africa"; 
+	],
+	"country":"South Africa", 
 	},
 	
 	{
-	"name": "Jonah Hill";
-	"height": "1.7";
-	"weight": "87";
+	"name": "Jonah Hill",
+	"height": "1.7",
+	"weight": "87",
 	"birthday": [
-		"day": "20";
-		"month": "december";
+		"day": "20",
+		"month": "december",
 		"year": "1983"
-		];
-	"country":"USA"; 
+		],
+	"country":"USA", 
 	}
 	
