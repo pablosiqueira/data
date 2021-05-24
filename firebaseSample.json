@@ -1,0 +1,293 @@
+{
+  "pets" : [ null, {
+    "adress" : {
+      "city" : "Manaus",
+      "number" : 5623,
+      "state" : "AM",
+      "street" : "Rua dos Milagres",
+      "zip" : "59075-066"
+    },
+    "age" : 7,
+    "breed" : "Dalmata",
+    "mail" : "jo16@outlook.com",
+    "name" : "Scooby",
+    "tel" : "08599663355",
+    "type" : "Cachorro",
+    "user" : "joana_souza",
+    "userName" : "Joana de Andrade Souza",
+    "weight" : 40
+  }, {
+    "adress" : {
+      "city" : "Manaus",
+      "number" : 5623,
+      "state" : "AM",
+      "street" : "Rua dos Milagres",
+      "zip" : "59075-066"
+    },
+    "age" : 1,
+    "breed" : "Vira Lata",
+    "mail" : "jo16@outlook.com",
+    "name" : "Thor",
+    "tel" : "08599663355",
+    "type" : "Cachorro",
+    "user" : "joana_souza",
+    "userName" : "Joana de Andrade Souza",
+    "weight" : 5
+  }, {
+    "adress" : {
+      "city" : "Natal",
+      "number" : "7752",
+      "state" : "RN",
+      "street" : "Rua das Palmeiras",
+      "zip" : "59033-042"
+    },
+    "age" : "5",
+    "breed" : "Pastor Alemão",
+    "mail" : "carlosvieira@gmail.com",
+    "name" : "Laika",
+    "tel" : "084993355",
+    "type" : "Cachorro",
+    "user" : "carlos_vieira",
+    "userName" : "Carlos Tavares Vieira",
+    "weight" : "38"
+  }, {
+    "adress" : {
+      "city" : "Natal",
+      "number" : "7752",
+      "state" : "RN",
+      "street" : "Rua das Palmeiras",
+      "zip" : "59033-042"
+    },
+    "age" : "10",
+    "breed" : "Poodle",
+    "mail" : "carlosvieira@gmail.com",
+    "name" : "Mirra",
+    "tel" : "084993355",
+    "type" : "Cachorro",
+    "user" : "carlos_vieira",
+    "userName" : "Carlos Tavares Vieira",
+    "weight" : "10"
+  }, {
+    "adress" : {
+      "city" : "Natal",
+      "number" : "7752",
+      "state" : "RN",
+      "street" : "Rua das Palmeiras",
+      "zip" : "59033-042"
+    },
+    "age" : "3",
+    "breed" : "Vira Lata",
+    "mail" : "carlosvieira@gmai.com",
+    "name" : "Felix",
+    "tel" : "084993355",
+    "type" : "Gato",
+    "user" : "carlos_vieira",
+    "userName" : "Carlos Tavares Vieira",
+    "weight" : "5"
+  }, {
+    "adress" : {
+      "city" : "Porto Alegre",
+      "number" : "7526",
+      "state" : "RS",
+      "street" : "Rua Jardim Verde",
+      "zip" : "58097-055"
+    },
+    "age" : "3",
+    "breed" : "Vira Lata",
+    "mail" : "m.eugenia@gmail.com",
+    "name" : "Nix",
+    "tel" : "08377225599",
+    "type" : "Gato",
+    "user" : "maria_dantas",
+    "userName" : "Maria Eugênia Dantas de Medeiros",
+    "weight" : "5"
+  }, {
+    "adress" : {
+      "city" : "Porto Alegre",
+      "number" : "7526",
+      "state" : "RS",
+      "street" : "Rua Jardim Verde",
+      "zip" : "58097-055"
+    },
+    "age" : "10",
+    "breed" : "Vira Lata",
+    "name" : "Tobias",
+    "tel" : "08377225599",
+    "type" : "Cachorro",
+    "user" : "maria_dantas",
+    "userName" : "Maria Eugênia Dantas de Medeiros",
+    "weight" : "30"
+  }, {
+    "adress" : {
+      "city" : "Porto Alegre",
+      "number" : "7526",
+      "state" : "RS",
+      "street" : "Rua Jardim Verde",
+      "zip" : "58097-055"
+    },
+    "age" : "7",
+    "breed" : "Siamês",
+    "mail" : "m.eugênia@gmail.com",
+    "name" : "Tom",
+    "tel" : "08377225599",
+    "type" : "Gato",
+    "user" : "maria_dantas",
+    "userName" : "Maria Eugênia Dantas de Medeiros",
+    "weight" : "5"
+  }, {
+    "adress" : {
+      "city" : "Porto Alegre",
+      "number" : "7526",
+      "state" : "RS",
+      "street" : "Rua Jardim Verde",
+      "zip" : "58097-055"
+    },
+    "age" : "1",
+    "breed" : "Persa",
+    "mail" : "m.eugênia@gmail.com",
+    "name" : "Taylor",
+    "tel" : "08377225599",
+    "type" : "Gato",
+    "user" : "maria_dantas",
+    "weight" : "5"
+  }, {
+    "adress" : {
+      "city" : "Mossoró",
+      "number" : "5696",
+      "state" : "RN",
+      "street" : "Rua Praia Nova",
+      "zip" : "59085-063"
+    },
+    "age" : "3",
+    "breed" : "Pincher",
+    "mail" : "tony23@outlook.com",
+    "name" : "Boris",
+    "tel" : "08499666885",
+    "type" : "Cachorro",
+    "user" : "tony_castro",
+    "userName" : "Tony Castro Silva",
+    "weight" : "5"
+  } ],
+  "users" : {
+    "carlos_vieira" : {
+      "adress" : {
+        "city" : "Natal",
+        "number" : "7752",
+        "state" : "RN",
+        "street" : "Rua das Palmeiras",
+        "zip" : "59033-042"
+      },
+      "mail" : "carlosvieira@gmail.com",
+      "name" : "Carlos Tavares Vieira",
+      "password" : "123456",
+      "pets" : [ null, null, null, {
+        "age" : 5,
+        "breed" : "Pastor Alemão",
+        "name" : "Laika",
+        "petID" : 3,
+        "type" : "Cachorro",
+        "weight" : 38
+      }, {
+        "age" : 10,
+        "breed" : "Poodle",
+        "name" : "Mirra",
+        "petID" : 4,
+        "type" : "Cachorro",
+        "weight" : 10
+      }, {
+        "age" : 3,
+        "breed" : "Vira Lata",
+        "name" : "Felix",
+        "petID" : 5,
+        "type" : "Gato",
+        "weight" : 5
+      } ],
+      "tel" : "084993355"
+    },
+    "joana_souza" : {
+      "adress" : {
+        "city" : "Manaus",
+        "number" : "5623",
+        "state" : "AM",
+        "street" : "Rua dos Milagres",
+        "zip" : "59075-066"
+      },
+      "login" : "joana_souza",
+      "mail" : "jo16@outlook.com",
+      "name" : "Joana de Andrade Souza",
+      "password" : "123456",
+      "tel" : "08599663355"
+    },
+    "maria_dantas" : {
+      "adress" : {
+        "city" : "Porto Alegre",
+        "number" : "7526",
+        "state" : "RS",
+        "street" : "Rua Jardim Verde",
+        "zip" : "58097-055"
+      },
+      "mail" : "m.eugênia@gmail.com",
+      "name" : "Maria Eugênia Dantas de Medeiros",
+      "password" : "123456",
+      "pets" : {
+        "6" : {
+          "age" : "3",
+          "breed" : "Vira Lata",
+          "name" : "Nix",
+          "petId" : 6,
+          "type" : "Gato",
+          "weight" : "5"
+        },
+        "7" : {
+          "age" : "10",
+          "breed" : "Vira Lata",
+          "name" : "Tobias",
+          "petId" : 7,
+          "type" : "Cachorro",
+          "weight" : "30"
+        },
+        "8" : {
+          "age" : "7",
+          "breed" : "Siamês",
+          "name" : "Tom",
+          "petId" : 8,
+          "type" : "Gato",
+          "weight" : "5"
+        },
+        "9" : {
+          "age" : "1",
+          "breed" : "Persa",
+          "name" : "Taylor",
+          "petId" : 9,
+          "type" : "Gato",
+          "weight" : "5"
+        }
+      },
+      "tel" : "08377225599"
+    },
+    "tony_castro" : {
+      "adress" : {
+        "city" : "Mossoró",
+        "number" : "5696",
+        "state" : "RN",
+        "street" : "Rua Praia Nova",
+        "zip" : "59085-063"
+      },
+      "login" : "tony_castro",
+      "mail" : "tony23@outlook.com",
+      "name" : "Tony Castro Silva",
+      "password" : "123456",
+      "pets" : {
+        "10" : {
+          "age" : "3",
+          "breed" : "Pincher",
+          "name" : "Boris",
+          "petId" : 10,
+          "type" : "Cachorro",
+          "weight" : "5"
+        }
+      },
+      "tel" : "08499666885"
+    }
+  }
+}
