@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Star Wars IV: A New Hope",
+        "rating": 8.6,
+        "cover": "https://cdn.europosters.eu/image/1300/posters/star-wars-classic-i153628.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Blade Runner",
+        "rating": 8.1,
+        "cover": "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2017/10/blade-runner-poster.jpg?resize=1528%2C2175&ssl=1"
+    }
+]
